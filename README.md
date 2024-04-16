@@ -1,1 +1,1 @@
-This is Repositry is for python for devops
+This is Repo is for python for devops
